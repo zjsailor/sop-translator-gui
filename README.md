@@ -23,5 +23,5 @@
 ## About
 - Version: `1.0`
 - 联系人: `hongxt`
-- 联系方式: `13758234255`
+- 联系方式: `zjubell@hotmail.com`
 
