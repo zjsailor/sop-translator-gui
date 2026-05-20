@@ -15,7 +15,7 @@ from openpyxl import load_workbook
 APP_TITLE = "SOP保留格式翻译工具"
 APP_VERSION = "Version 1.0"
 APP_CONTACT = "hongxt"
-APP_PHONE = "13758234255"
+APP_PHONE = "zjubell#hotmail.com"
 
 BATCH_SIZE = 50
 SEP = "|||---SEP---|||"
